@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BarlowCondensedBold';
+    src: url('../fonts/BarlowCondensedBold.eot');
+    src: url('../fonts/BarlowCondensedBold.eot') format('embedded-opentype'),
+         url('../fonts/BarlowCondensedBold.woff2') format('woff2'),
+         url('../fonts/BarlowCondensedBold.woff') format('woff'),
+         url('../fonts/BarlowCondensedBold.ttf') format('truetype'),
+         url('../fonts/BarlowCondensedBold.svg#BarlowCondensedBold') format('svg');
+}

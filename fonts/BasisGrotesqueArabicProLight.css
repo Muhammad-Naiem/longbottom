@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BasisGrotesqueArabicProLight';
+    src: url('../fonts/BasisGrotesqueArabicProLight.eot');
+    src: url('../fonts/BasisGrotesqueArabicProLight.eot') format('embedded-opentype'),
+         url('../fonts/BasisGrotesqueArabicProLight.woff2') format('woff2'),
+         url('../fonts/BasisGrotesqueArabicProLight.woff') format('woff'),
+         url('../fonts/BasisGrotesqueArabicProLight.ttf') format('truetype'),
+         url('../fonts/BasisGrotesqueArabicProLight.svg#BasisGrotesqueArabicProLight') format('svg');
+}
